@@ -1,0 +1,14 @@
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\bin\Debug\net8.0\ByteBank_ADM.exe
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\bin\Debug\net8.0\ByteBank_ADM.deps.json
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\bin\Debug\net8.0\ByteBank_ADM.runtimeconfig.json
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\bin\Debug\net8.0\ByteBank_ADM.dll
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\bin\Debug\net8.0\ByteBank_ADM.pdb
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\obj\Debug\net8.0\ByteBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\obj\Debug\net8.0\ByteBank_ADM.AssemblyInfoInputs.cache
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\obj\Debug\net8.0\ByteBank_ADM.AssemblyInfo.cs
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\obj\Debug\net8.0\ByteBank_ADM.csproj.CoreCompileInputs.cache
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\obj\Debug\net8.0\ByteBank_ADM.dll
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\obj\Debug\net8.0\refint\ByteBank_ADM.dll
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\obj\Debug\net8.0\ByteBank_ADM.pdb
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\obj\Debug\net8.0\ByteBank_ADM.genruntimeconfig.cache
+C:\codigos\ByteBank3_classes_e_herancas\ByteBank3\obj\Debug\net8.0\ref\ByteBank_ADM.dll
